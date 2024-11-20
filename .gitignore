@@ -183,3 +183,6 @@ test_notebooks/
 
 # Notebook Checkpoints
 notebooks/checkpoint/
+.ssh_jieke/config
+.ssh_jieke/id_rsa_jieke
+.ssh_jieke/id_rsa_jieke.pub
